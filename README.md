@@ -6,7 +6,7 @@ This project leverages YOLOv8n (You Only Look Once, version 8 - nano) to automat
 
 ## 🔍 Problem Statement
 
-Malaria continues to cause significant mortality, particularly in sub-Saharan Africa. Traditional diagnosis using microscopy is slow and expertise-intensive. This project aims to automate the diagnostic process using computer vision — building a lightweight, portable AI solution that could potentially support field diagnosis in rural communities.
+Malaria continues to cause significant mortality, particularly in sub-Saharan Africa. Traditional diagnosis using microscopy is slow and expertise-intensive. This project aims to automate the diagnostic process using computer vision, building a lightweight, portable AI solution that could potentially support field diagnosis in rural communities.
 
 ---
 
