@@ -1,6 +1,6 @@
 # Malaria Detection Using YOLOv8n
 
-This project leverages YOLOv8n (You Only Look Once, version 8 - nano) to automate malaria diagnosis by detecting and classifying infected and uninfected blood cells in microscopic smear images. It is inspired by the urgent need to accelerate diagnostics in low-resource settings, especially where expert microscopists are unavailable.
+This project leverages YOLOv8n (You Only Look Once, version 8 - nano) to automate malaria diagnosis by detecting and classifying infected and uninfected blood cells in microscopic smear images. It is inspired by the increasing failure raes of RDT in detecting malaria andan urgent need to accelerate diagnostics in low-resource settings, especially where expert microscopists are unavailable.
 
 ---
 
