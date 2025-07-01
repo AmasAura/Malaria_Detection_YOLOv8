@@ -57,7 +57,7 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 | Original Image | YOLOv8n Prediction |
 |----------------|--------------------|
-| ![input](images/sample_input.png) | ![output](images/sample_output.png) |
+| ![input](images/input.png) | ![output](images/output.png) |
 
 > *(Add screenshots to the `images/` folder and update file names above)*
 
