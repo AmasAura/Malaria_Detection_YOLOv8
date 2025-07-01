@@ -25,7 +25,7 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 ---
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - **Model**: YOLOv8n (Ultralytics)
 - **Language**: Python
@@ -98,7 +98,7 @@ Hi! I'm **Amarachi**, a data scientist and public health advocate passionate abo
 
 ## Future Plans
 
-This project is more than a model, i believe it’s the beginning of a real-world diagnostic tool. Here’s what’s next:
+This project is more than a model, i believe it’s the beginning of a real-world diagnostic tool. Here’s what i hope to do moving forward:
 
 ---
 
