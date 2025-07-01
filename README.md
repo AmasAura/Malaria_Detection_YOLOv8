@@ -47,7 +47,7 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 ## 📈 Results
 
-- **mAP@0.5**: 78.6% (validation set)
+- **mAP@0.5**: 72.9% (validation set)
 - Successfully detected difficult-to-identify cells (Class 5: "Difficult")
 - Enhanced rare class performance through targeted augmentation
 
