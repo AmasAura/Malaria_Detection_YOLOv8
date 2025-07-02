@@ -89,7 +89,12 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 ## 🙋🏽‍♀About Me
 
-Hi! I'm **Amarachi**, a data scientist and public health advocate passionate about building AI solutions to real-world health problems. This project represents a step toward smarter, faster diagnostics for underserved communities.
+## 🙋🏽‍♀️ About Me
+
+Hi! I'm **Amarachi**, a data scientist and public health advocate passionate about building AI solutions for real-world health problems. This project is part of my mission to make intelligent diagnostics more accessible in underserved communities.
+
+I’m also a lifelong learner actively building my portfolio.  
+📚 Check out my learning journey here: [My Data Science Journey](https://github.com/AmasAura/My-data-science-Journey)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/favouralor) | 📂 [More Projects Coming Soon](#)
 
