@@ -89,14 +89,18 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 ## 🙋🏽‍♀️ About Me
 
-Hi! I'm **Amarachi**, a data scientist and public health advocate passionate about building AI solutions for real-world health problems. This project is part of my mission to make intelligent diagnostics more accessible in underserved communities.
+I’m Amarachi Alor, a public health advocate and data scientist with a background in Anatomy. I’m passionate about using data to solve real problems in underserved communities—especially within the healthcare space.
 
-I’m also a lifelong learner actively building my portfolio.  
-📚 Check out my learning journey here: [My Data Science Journey](https://github.com/AmasAura/My-data-science-Journey)
+My work explores how artificial intelligence and machine learning can close critical diagnostic gaps in rural settings. This malaria detection model is one of several projects where I apply data science for public good.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/favouralor) | 📂 [More Projects Coming Soon](#)
+I actively invest in continuous learning and professional development. You can view some of my certifications here:  
+👉 [View Certifications on Google Drive](https://drive.google.com/drive/folders/1OZuvYhMeV7mtZRNiiKGZ-3ENzcurSrS4?usp=sharing)
+👉 [Other GitHub Projects](https://github.com/AmasAura?tab=repositories)
 
----
+### 🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/amarachi-alor/)
+
+
 
 
 ## Future Plans
