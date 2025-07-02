@@ -87,8 +87,6 @@ Malaria continues to cause significant mortality, particularly in sub-Saharan Af
 
 ---
 
-## 🙋🏽‍♀About Me
-
 ## 🙋🏽‍♀️ About Me
 
 Hi! I'm **Amarachi**, a data scientist and public health advocate passionate about building AI solutions for real-world health problems. This project is part of my mission to make intelligent diagnostics more accessible in underserved communities.
